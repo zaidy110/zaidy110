@@ -5,9 +5,7 @@
 - 📫 To reach me out u can use my contact details
   Mail: zaidmahar437@gmail.com
   Whatsapp: 03101300607
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
+  
 <!---
 zaidy110/zaidy110 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
